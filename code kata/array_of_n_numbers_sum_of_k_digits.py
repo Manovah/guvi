@@ -1,6 +1,6 @@
-p,o=input().split()
-r=int(p)
-e=int(o)
+o,p=input().split()
+r=int(o)
+e=int(p)
 m=0
 arr = [int(x) for x in input().split()]
 for i in range (0,e):
